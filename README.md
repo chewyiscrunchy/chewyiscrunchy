@@ -2,7 +2,7 @@
 
 ## I'm a full-stack Node/web developer!
 
-😃 I'm familiar and comfortable with:
+I'm familiar and comfortable with:
 - JavaScript and TypeScript
 - React, React Native and Vue
 - REST API design and GraphQL
@@ -12,7 +12,7 @@
 - Kubernetes
 - Microservices
 
-🌱 I'm currently learning:
+I'm currently learning:
 - Laravel
 - Next.js
 
