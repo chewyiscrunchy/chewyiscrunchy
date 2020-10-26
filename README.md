@@ -2,21 +2,21 @@
 
 ## I'm a full-stack Node/web developer!
 
-I'm familiar and comfortable with:
-  - JavaScript and TypeScript
-  - React, React Native and Vue
-  - REST API design and GraphQL
-  - Continuous integration and deployment
-  - Browser games and website design
-  - Linux, containers and VMs
-  - Kubernetes
-  - Microservices
+😃 I'm familiar and comfortable with:
+- JavaScript and TypeScript
+- React, React Native and Vue
+- REST API design and GraphQL
+- Continuous integration and deployment
+- Browser games and website design
+- Linux, containers and VMs
+- Kubernetes
+- Microservices
 
-I'm currently learning:
-  - Laravel
-  - Next.js
+🌱 I'm currently learning:
+- Laravel
+- Next.js
 
-## Languages and Tools:
+### Languages and Tools:
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
