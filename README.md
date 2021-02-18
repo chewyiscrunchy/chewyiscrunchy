@@ -4,7 +4,7 @@
 
 I'm familiar and comfortable with:
 - JavaScript and TypeScript
-- React, React Native and Vue
+- React, React Native, Next.js and Vue
 - REST API design and GraphQL
 - Continuous integration and deployment
 - Browser games and website design
@@ -12,9 +12,8 @@ I'm familiar and comfortable with:
 - Kubernetes
 - Microservices
 
-I'm currently learning:
+I'm planning on learning:
 - Laravel
-- Next.js
 
 ### Languages and Tools:
 
