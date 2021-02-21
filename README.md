@@ -34,3 +34,8 @@ I'm planning on learning:
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
 <p>
+  
+### GitHub Stats
+
+[![braden's GitHub stats](https://github-readme-stats.vercel.app/api?username=octavetoast&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![braden's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octavetoast)](https://github.com/anuraghazra/github-readme-stats)
