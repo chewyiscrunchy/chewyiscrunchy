@@ -11,9 +11,7 @@ I'm familiar and comfortable with:
 - Linux, containers and VMs
 - Kubernetes
 - Microservices
-
-I'm planning on learning:
-- Laravel
+- Rust
 
 ### Languages and Tools:
 
