@@ -1,6 +1,6 @@
 ### Hi there, I'm Braden 👋
 
-## I'm a full-stack Node/web developer!
+## I'm a full-stack JavaScript developer!
 
 I'm familiar and comfortable with:
 - JavaScript and TypeScript
